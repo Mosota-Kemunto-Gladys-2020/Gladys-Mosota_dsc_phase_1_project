@@ -36,3 +36,5 @@ rad.json
 *.flf
 # Test results file
 TestResults.xml
+# Ignore temporary files
+~$bom_movie_gross_analysis.xlsx
